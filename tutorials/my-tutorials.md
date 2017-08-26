@@ -1,4 +1,4 @@
 #MyTutorials
 
-- [ ] first
+- [x] first
 - [ ] second 
